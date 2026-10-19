@@ -16,7 +16,7 @@ Wijzigingen worden automatisch lokaal opgeslagen, met dezelfde bestaande sleutel
 
 ## Hosting
 
-De statische website staat in de repositoryroot. GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root). De workflow probeert dit automatisch in te stellen. Als de repositorytoken dit niet mag, is eenmalig instellen door een beheerder nodig.
+De statische website staat in de repositoryroot. GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root). GitHub Pages publiceert wijzigingen op main automatisch. De workflow controleert daarna of de website en appbestanden openbaar bereikbaar zijn.
 
 ## Lokaal starten
 
